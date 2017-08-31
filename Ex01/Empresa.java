@@ -1,3 +1,8 @@
+/**
+* Classe que define o metodo main e testa alguns clientes criados
+* @author Luan Pereira
+* 
+*/
 public class Empresa{
 	public static void main(String[] args){
 		Cliente c1 = new Cliente("Xirlinha", "Parnamoscou", "4002-8922");
